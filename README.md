@@ -15,9 +15,9 @@
 
 
 <div display="inline_block" align="center"><br>
- <img  height="40" width="50" alt="rapha-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- <img  height="40" width="50" alt="rapha-sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
- <img  height="40" width="50" alt="rapha-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ <img  height="40" width="50" alt="Facundo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img  height="40" width="50" alt="Facundo-sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+ <img  height="40" width="50" alt="Facundo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>    
 
 ---   
@@ -30,9 +30,9 @@
 ---
 
 <div display="inline_block" align="center">
-  <a href="https://www.linkedin.com/in/raphalkd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
-    <a href="mailto:dev.rapha13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-      <a href="https://www.instagram.com/naoeoraphael/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>       
+  <a href="https://www.linkedin.com/in/facundo-atahides-0b9665313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
+    <a href="mailto:facundoatahides01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+      <a href="https://www.instagram.com/facundo_atahides/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>       
 </div>
 
 
