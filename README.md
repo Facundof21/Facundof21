@@ -9,8 +9,8 @@
 ![Python]( https://img.shields.io/badge/Python-3776AB?style=para-o-emblema&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=para-o-emblema&logo=sql&labelColor=0D1117) 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Facundof21/Facundof21/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Facundof21/Facundof21/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https:file:///C:/Users/Facundo%20Atahides/Documents/Untitled-1.html
+  <img alt="github contribution grid snake animation" src="https:file:///C:/Users/Facundo%20Atahides/Documents/Untitled-1.html
 </picture>   
 
 ---
