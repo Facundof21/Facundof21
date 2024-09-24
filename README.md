@@ -8,17 +8,7 @@
 
 ![Python]( https://img.shields.io/badge/Python-3776AB?style=para-o-emblema&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=para-o-emblema&logo=sql&labelColor=0D1117) 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Facundof21&show_icons=true&theme=tokyonight" <img width="46%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facundof21&layout=compact&theme=tokyonight" <img width="50%" alt="Top Languages" />
-</p>
 
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Facundof21/Facundof21/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Facundof21/Facundof21/output/github-contribution-grid-snake.svg">
-</picture>   
-
----
 
 <div display="inline_block" align="center">
   <a href="https://www.linkedin.com/in/facundo-atahides-0b9665313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
