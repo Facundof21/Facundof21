@@ -14,18 +14,6 @@
 </p>
 
 
-<div display="inline_block" align="center"><br>
- <img  height="40" width="50" alt="Facundo-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- <img  height="40" width="50" alt="Facundo-sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
- <img  height="40" width="50" alt="Facundo-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>    
-
----   
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EoRaphas/EoRaphas/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EoRaphas/EoRaphas/output/github-contribution-grid-snake.svg">
-</picture>   
 
 ---
 
